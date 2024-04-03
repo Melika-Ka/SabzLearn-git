@@ -160,7 +160,7 @@
 
 ## Git-30-gitignore
 
-1. create .gitignore file next to .git file
+1. create .gitignore file next to .git folder
 2. write file names in previous file
 3. add and commit change
 
@@ -275,7 +275,17 @@
 
 ## Git-49-git-pull
 
+- bring others changes from to local repository
+- command_1 : `git pull`
+
 ## Git-50-git-fetch
+
+- like pull but don't merge commits => `git pull` = `git fetch ` && `git merge`
+- command_1 : `git fetch <remote> <branch>`
+- command_2 : `git branch -r` => دیدن ریموت برنچ ها
+- command_3 :`git switch -c seeChanges origin/master` => دیدن تغییرات در یک برنچ دیگر
+- commad_4 : `git merge seeChange`
+- commad_5 : `git branch -d seeChange `
 
 ## Git-51-remote-branch
 
