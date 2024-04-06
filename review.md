@@ -291,7 +291,7 @@
 
 ## Git-52-learn-deeply
 
-![learn-deeply](/learn-deeply.png)
+![learn-deeply](/assets/learn-deeply.png)
 
 ## Git-53-pull-with-conflict
 
