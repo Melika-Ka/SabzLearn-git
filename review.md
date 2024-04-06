@@ -295,20 +295,8 @@
 
 ## Git-53-pull-with-conflict
 
+- command_1 : `git pull` => like before
+
 ## Git-54-readme-and-markdown
 
 ## Git-55-link-and-img-in-readme
-
-
-
-
-
-
-
-
-
-
-
-
-
-
