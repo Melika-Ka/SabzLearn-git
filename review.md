@@ -291,8 +291,24 @@
 
 ## Git-52-learn-deeply
 
+![learn-deeply](/learn-deeply.png)
+
 ## Git-53-pull-with-conflict
 
 ## Git-54-readme-and-markdown
 
 ## Git-55-link-and-img-in-readme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
