@@ -303,3 +303,36 @@
 - [markdown_2](https://www.markdownguide.org/)
 
 ## Git-55-link-and-img-in-readme
+
+## Git-56-badge-in-readme
+
+![npm downloads](https://img.shields.io/npm/dw/express)
+![ downloads](https://img.shields.io/npm/dw/cors)
+
+- [Badges4-README.md-Profile :](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+  - ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+## Git-57-readme-so
+
+- [quick readme](https://readme.so/)
+
+## Git-58-github-page
+
+[github-page](https://pages.github.com/)
+
+1. create new repository
+
+2. `git clone repository`
+
+3. create file `index.html`
+
+4. setting => page => master root
+
+- how to deploy react app on github ?
+  - [deploy react app](https://www.youtube.com/watch?v=Q9n2mLqXFpU)
+
+## Git-59-private-repo
+
+## Git-60-invite-collaborator
+
