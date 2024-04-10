@@ -368,4 +368,9 @@
 
 ## Git-64-pull-request-with-conflict
 
+- how to merge :
+  - resolve conflict options
+
 ## Git-65-fork
+
+- copy other `s repository and add to our repository and we can pull requests changes to them
