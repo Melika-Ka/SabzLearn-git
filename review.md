@@ -339,13 +339,32 @@
 ## Git-61-issues
 
 - Git-issues : ارتباط افراد با یک دیگر
+  - mention sb
+  - tag labels
 
 ## Git-62-issues-in-teams
 
 - issues-in-teams : مشخص کردن تسک هر کس
-- اسم ان فرد را باید منشن کنیم
+
+  - اسم ان فرد را باید منشن کنیم
+
+- how save changes in issues :
+
+  1. `git add .`
+
+  2. `git commit -m "commitMessage - resolve #issueId"` => خود به خود کلوز میشود
+
+  3. `git push`
 
 ## Git-63-pull-request-in-team
+
+1. `git branch` => master
+2. `git swich -c "branchName"`
+3. make your changes
+4. `git add .`
+5. `git commit -m "commitMessage"`
+6. `git push`
+7. `git push --set-upstream origin branchName`
 
 ## Git-64-pull-request-with-conflict
 
