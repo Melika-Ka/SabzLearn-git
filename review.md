@@ -336,3 +336,17 @@
 
 ## Git-60-invite-collaborator
 
+## Git-61-issues
+
+- Git-issues : ارتباط افراد با یک دیگر
+
+## Git-62-issues-in-teams
+
+- issues-in-teams : مشخص کردن تسک هر کس
+- اسم ان فرد را باید منشن کنیم
+
+## Git-63-pull-request-in-team
+
+## Git-64-pull-request-with-conflict
+
+## Git-65-fork
