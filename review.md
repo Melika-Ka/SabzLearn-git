@@ -374,3 +374,20 @@
 ## Git-65-fork
 
 - copy other `s repository and add to our repository and we can pull requests changes to them
+
+## Git-66-push-on-forked-repo & Git-67-pull-req-on-forked-repo
+
+- we can change our repository posibilty (private to public and reverse)
+
+1. like before sessions
+2. click contribute to pull reguest to target
+
+## Git-68-pull-from-main-repo
+
+- زمانی که در ریپو اصلی تغییر ایجاد شود
+
+1. ‍‍`git remot add upstream mainRef`
+
+2. `git remore -v`
+
+3. `git pull upstream main`
