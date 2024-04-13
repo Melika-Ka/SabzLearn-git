@@ -391,3 +391,44 @@
 2. `git remore -v`
 
 3. `git pull upstream main`
+
+## Git-73-shields-io
+
+- [badgets](https://shields.io/)
+
+## Git-74-add-readme-to-profile
+
+- create a repository with your github username
+
+## Git-75-github-stats
+
+- [برای استفاده آمار و ارقام اکانت گیت هاب ](https://github.com/anuraghazra/github-readme-stats)
+
+# Git-76-markdown-pro-tips
+
+- [bold in markdown](https://www.markdownguide.org/basic-syntax/#bold)
+
+- [italic in markdown](https://www.markdownguide.org/basic-syntax/#italic)
+
+- [horizontal line in markdown](https://www.markdownguide.org/basic-syntax/#horizontal-rules)
+
+- [blockquotes in markdown](https://www.markdownguide.org/basic-syntax/#blockquotes-1)
+
+- [diff codes in markdown](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks)
+
+```diff
+ {
+-"firstName": "John",
+ "lastName": "Smith",
+  "age": 25
+}
+ {
++ "firstName": "Joo",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+- [list in markdown](https://www.markdownguide.org/basic-syntax/#lists-1)
+
+- [table in markadown](https://www.markdownguide.org/extended-syntax/#tables)
