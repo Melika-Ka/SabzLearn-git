@@ -394,8 +394,9 @@
 
 ## Git-73-shields-io
 
-- [badgets](https://shields.io/)
-
+- [badges](https://shields.io/)
+- [markdown-badges](https://github.com/Ileriayo/markdown-badges)
+- [icon](https://icons8.com/)
 ## Git-74-add-readme-to-profile
 
 - create a repository with your github username
