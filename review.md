@@ -436,3 +436,38 @@
 
 - [table in markadown](https://www.markdownguide.org/extended-syntax/#tables)
 
+## Git-83-achievements
+
+- github-achievements => دستاورد های گیت هاب
+- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+- [Get-Github-Achievements](https://github.com/4xmen/Get-Github-Achievements)
+
+## Git-84-code-inprofile
+
+```js
+const thai = {
+  pronouns: "She" | "her",
+  langs: [Javascript, Typescript, HTML, CSS],
+  tools: [
+    React,
+    Redux,
+    Node,
+    Next,
+    Tailwind,
+    Storybook,
+    Styled - Components,
+    Jest,
+    Docker,
+  ],
+  architecture: ["Microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "AfroPython",
+    speaker: "Latinity",
+    mentor: "EducaTRANSforma",
+  },
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on react and typescript",
+};
+```
+
+
