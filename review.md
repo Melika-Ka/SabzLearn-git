@@ -397,6 +397,8 @@
 - [badges](https://shields.io/)
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges)
 - [icon](https://icons8.com/)
+- [icon](https://skillicons.dev/)
+
 ## Git-74-add-readme-to-profile
 
 - create a repository with your github username
@@ -433,3 +435,4 @@
 - [list in markdown](https://www.markdownguide.org/basic-syntax/#lists-1)
 
 - [table in markadown](https://www.markdownguide.org/extended-syntax/#tables)
+
